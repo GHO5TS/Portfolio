@@ -103,7 +103,7 @@ header ul{
     font-size: 20px;
 }
 
-.semantic-tagging{
+.cat-memory{
     width: 50%;
     height: 70px;
     border: 2px solid rgb(31, 197, 72);
@@ -135,4 +135,13 @@ a:hover{
 li a{
     display: inline-block;
     flex-wrap: wrap;
+}
+
+#work-links {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#about-me {
+    padding-top: 20px;
 }
